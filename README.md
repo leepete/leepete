@@ -1,6 +1,6 @@
 # Kia ora! 👋
 
-I'm Peter, an 🍎 iOS Engineer from Aotearoa, New Zealand.
+I'm Peter, an 🍎 iOS Engineer based in Auckland, New Zealand.
 
 <!-- ### What I'm up to:
 - Nothing much -->
@@ -9,7 +9,6 @@ I'm Peter, an 🍎 iOS Engineer from Aotearoa, New Zealand.
 - 🏢 I'm currently working at ANZx
 - ⚙️ **What I use daily:** Swift!
 - 🌱 I’m constantly learning all things SwiftUI
-- 💬 Ask me about... anything!
 
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leepete&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
