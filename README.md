@@ -1,12 +1,11 @@
 # Kia ora! 👋
 
-I'm Peter, an iOS Engineer based in Auckland, New Zealand.
+I'm Pete, an iOS Engineer based in NZ.
 
 <!-- ### What I'm up to:
 - Nothing much -->
 
-<!-- ### About Me -->
-- 🏢 I'm currently working at ANZ.
+<!-- ### About Me --> - 🏢 I'm currently working at...
 - ⚙️ **What I use daily:** Swift!
 
 <!--
