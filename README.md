@@ -5,7 +5,8 @@ I'm Pete, an iOS Engineer based in NZ.
 <!-- ### What I'm up to:
 - Nothing much -->
 
-<!-- ### About Me --> - 🏢 I'm currently working at...
+<!-- ### About Me --> 
+<!-- - 🏢 I'm currently working at... -->
 - ⚙️ **What I use daily:** Swift!
 
 <!--
